@@ -22,6 +22,10 @@ Vida V7-X я доволен. И Поясничная поддержка есть
 
 Kulik Victory кресло уже 6 лет, брал на ткани, но моя худорлявая попа затекает на ней и большевата сидушка. Опять же не стоит ожидать удобства от ортопедического кресла, на нем сильно не развалишься, оно заставляет тебя сидеть правильно. 
 
+### [[Dmytro Litvinov](https://github.com/dmytrolitvinov)]
+
+- [Hator Sport Light White (HTC-912)](https://rozetka.com.ua/ua/hator_htc_912/p167366347/). 
+
 ### [vovin] 100 кг, 177 рост
 
 - [GT Racer X-E326H Fabric Orange](https://gtracer.com.ua/ofisnoe-kreslo-gt-racer-x-e326h-fabric-orange)
