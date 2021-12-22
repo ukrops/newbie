@@ -38,6 +38,11 @@ Kulik System ROYAL вже років з п’ять. Крісло подобає
 - [GT Racer X-8005 Dark](https://gtracer.com.ua/ru/gejmerskoe-kreslo-gt-racer-x-8005-dark-gray-black)
 1 год 1 месяц. Удобный ковш, режим качания, можно спать, тест на кота прошел
 
+### [[Harbulinskyi Vitalii](https://github.com/redhatua)] 115кг, 186 рост
+- [Hator Arc](https://hator.gg/gaming-chairs/arc)
+В использовании с декабря 2020. Выбирал между ортопедическими от Kulik и "геймерскими" от Dxracer\Hator\Aerocool\Razer. Kulik достаточно удобный, но даже старшие модели с виду достаточно хлипкие(хотя у жены уже более года Kulik и она довольна), в итоге остановился на Hator Arc из-за его массивности.
+Кресло удобное, с кучей регулировок и приятным качанием. Жалею что не взял Ark S, в нем немного мягче и шире подушка. Оббивка из какой-то химии похожей на кожу достаточно крепкая и не получает урона от кошки, но летом потненько.
+
 # Место для ссылок на ваши статьи. 
 
   * ![](https://rtfm.co.ua/wp-content/uploads/2019/10/rtfm-logo-small-1.jpg) RTFM.CO.UA [Okta: интеграция с G-Suite — provisioning, импорт и экспорт пользователей](https://rtfm.co.ua/okta-integraciya-s-g-suite-provisioning-import-i-eksport-polzovatelej/)
