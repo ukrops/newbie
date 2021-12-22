@@ -26,6 +26,9 @@ Kulik Victory кресло уже 6 лет, брал на ткани, но мо�
 
 - [GT Racer X-E326H Fabric Orange](https://gtracer.com.ua/ofisnoe-kreslo-gt-racer-x-e326h-fabric-orange)
 
+### [yamato]
+Kulik System ROYAL вже років з п’ять. Крісло подобається.
+
 # Место для ссылок на ваши статьи. 
 
   * ![](https://rtfm.co.ua/wp-content/uploads/2019/10/rtfm-logo-small-1.jpg) RTFM.CO.UA [Okta: интеграция с G-Suite — provisioning, импорт и экспорт пользователей](https://rtfm.co.ua/okta-integraciya-s-g-suite-provisioning-import-i-eksport-polzovatelej/)
