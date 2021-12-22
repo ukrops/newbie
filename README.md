@@ -33,6 +33,11 @@ Kulik Victory кресло уже 6 лет, брал на ткани, но мо�
 ### [yamato]
 Kulik System ROYAL вже років з п’ять. Крісло подобається.
 
+### [[ivanovUA](https://github.com/ivanovUA)]
+
+- [GT Racer X-8005 Dark](https://gtracer.com.ua/ru/gejmerskoe-kreslo-gt-racer-x-8005-dark-gray-black)
+1 год 1 месяц. Удобный ковш, режим качания, можно спать, тест на кота прошел
+
 # Место для ссылок на ваши статьи. 
 
   * ![](https://rtfm.co.ua/wp-content/uploads/2019/10/rtfm-logo-small-1.jpg) RTFM.CO.UA [Okta: интеграция с G-Suite — provisioning, импорт и экспорт пользователей](https://rtfm.co.ua/okta-integraciya-s-g-suite-provisioning-import-i-eksport-polzovatelej/)
