@@ -2,9 +2,9 @@
 
 
 ### [ctrlok]
-Ergohuman - дешевле, сидеть неудобно, но спина болеть перестала
-Herman miller aeron - в процесе теста
-Herman miller mirra 2 - норм
+* Ergohuman - дешевле, сидеть неудобно, но спина болеть перестала
+* Herman miller aeron - в процесе теста
+* Herman miller mirra 2 - норм
 
 
 ### [nick]
