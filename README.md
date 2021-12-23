@@ -38,6 +38,10 @@ Kulik System ROYAL вже років з п’ять. Крісло подобає
 - [GT Racer X-8005 Dark](https://gtracer.com.ua/ru/gejmerskoe-kreslo-gt-racer-x-8005-dark-gray-black)
 1 год 1 месяц. Удобный ковш, режим качания, можно спать, тест на кота прошел
 
+### [[Mykhailo Voitashevskyi](https://github.com/gagar1n)]
+
+- IKEA MARKUS. Непоганий варіант за розумну ціну. Через кілька місяців після покупки почав помічати болі внизу спини, але з кріслом це не пов'язував. Ліки і лікарі не допомагали. Коли вийняв з крісла "ортопедичну" подушку болі в спині пройшли самі.
+
 # Место для ссылок на ваши статьи. 
 
   * ![](https://rtfm.co.ua/wp-content/uploads/2019/10/rtfm-logo-small-1.jpg) RTFM.CO.UA [Okta: интеграция с G-Suite — provisioning, импорт и экспорт пользователей](https://rtfm.co.ua/okta-integraciya-s-g-suite-provisioning-import-i-eksport-polzovatelej/)
